@@ -6,6 +6,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "bin": {
+    "kebiasaan-kata-tidak-baku": "./index.js"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Arsfiqball/kebiasaan-kata-tidak-baku.git"
