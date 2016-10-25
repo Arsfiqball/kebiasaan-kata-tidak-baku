@@ -1,0 +1,30 @@
+{
+  "name": "kebiasaan-kata-tidak-baku",
+  "version": "0.0.1",
+  "description": "Commandline tool untuk mengecek keberadaan kata tidak baku yang sering digunakan.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arsfiqball/kebiasaan-kata-tidak-baku.git"
+  },
+  "keywords": [
+    "cmd",
+    "commandline",
+    "console",
+    "language",
+    "indonesia",
+    "po"
+  ],
+  "author": "Iqbal Mohammad Abdul Ghoni <iqballmags@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Arsfiqball/kebiasaan-kata-tidak-baku/issues"
+  },
+  "homepage": "https://github.com/Arsfiqball/kebiasaan-kata-tidak-baku#readme",
+  "dependencies": {
+    "pofile": "^1.0.2"
+  }
+}
